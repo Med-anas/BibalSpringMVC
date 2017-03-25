@@ -35,9 +35,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Spring MVC] - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Spring boot] - local server "tomcat"
+* Spring MVC - The web framework used
+* Maven - Dependency Management
+* Spring boot - local server "tomcat"
 
 ## Contributing
 
@@ -49,4 +49,4 @@ This project is developed for academic purposes, only idSaid and Med-anas are al
 * **Said Idrissi**  - [Git Account] (https://github.com/idSaid)
 * **Mohamme Anas Bahnini**  - [Git Account] (https://github.com/Med-anas)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/idSaid/BibalSpringMVC/contributors) who participated in this project.
