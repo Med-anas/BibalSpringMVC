@@ -1,6 +1,7 @@
-# Project Title
-BibalSpringMVC
-Bibal is a library manager web app
+# BibalSpringMVC
+
+# Project Description
+BibalSpringMVC is a library manager web app
 
 ## Getting Started
 
@@ -35,9 +36,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Spring MVC - The web framework used
-* Maven - Dependency Management
-* Spring boot - local server "tomcat"
+* **Spring MVC** - The web framework used
+* **Maven** - Dependency Management
+* **Spring boot** - local server "tomcat"
 
 ## Contributing
 
@@ -46,7 +47,7 @@ This project is developed for academic purposes, only idSaid and Med-anas are al
 
 ## Authors
 
-* **Said Idrissi**  - [Git Account] (https://github.com/idSaid)
-* **Mohamme Anas Bahnini**  - [Git Account] (https://github.com/Med-anas)
+* [Said Idrissi](https://github.com/idSaid)
+* [Mohamme Anas Bahnini](https://github.com/Med-anas)
 
 See also the list of [contributors](https://github.com/idSaid/BibalSpringMVC/contributors) who participated in this project.
